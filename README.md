@@ -1,1 +1,2 @@
 # Excel_Macros
+The attached excel file called BankChurners.xlsm is a project for the accreditation of a course that I took on Excel and Macros, in this project I perform an analysis of a Python database called BankChurners, observing and classifying clients, adding graphics, creation of amortization tables for possible loans depending on the nature of the client and forms for consulting data about clients.
